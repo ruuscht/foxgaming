@@ -8,7 +8,7 @@
 <body>
 
 <div class="logo">
-    <img src="logo.png" alt="">
+    <a href="login.php"><img src="logo.png" alt="logo"></a>
 </div>
 
   <div class="header">

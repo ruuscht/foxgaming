@@ -88,8 +88,10 @@ p a {
   text-align: left;
 }
 .success {
+  width: 50%;
   color: #3c763d;
   background: #dff0d8;
   border: 1px solid #3c763d;
   margin-bottom: 20px;
+  text-align: center;
 }

@@ -8,7 +8,7 @@
 <body>
 
 <div class="logo">
-    <img src="logo.png" alt="">
+   <a href="#"><img src="logo.png" alt=""></a>
 </div>
 
   <div class="header">
